@@ -1,0 +1,7 @@
+{
+    "app_id": "blogui-itjdm",
+    "config_version": 20210101,
+    "name": "blogui",
+    "location": "IN-MB",
+    "deployment_model": "LOCAL"
+}
